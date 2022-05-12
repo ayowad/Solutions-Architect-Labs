@@ -8,6 +8,12 @@ Task: Create a nondefault VPC using AWS CLI
 6. Lauch an instance into your subnet 
 7. Clean Up
 
+# Using the command line interface to configure and lunch a VPC
+![image](https://user-images.githubusercontent.com/94347897/168174496-1111ff56-4eab-4172-90c5-6217a8f8c0b1.png)
+# Output returned
+# vpc-0d5ec364042a829cb
+
+
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
