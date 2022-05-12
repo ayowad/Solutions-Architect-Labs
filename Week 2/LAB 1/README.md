@@ -13,11 +13,11 @@ Task 1: Deploy VPC using Management console
 # Lunched the AWS management console and created a VPC named: projectayo
 ![image](https://user-images.githubusercontent.com/94347897/168162010-7a5c580a-fb53-485d-b43b-bff9daf37e93.png)
 
+# Test  for network connectivity by ssh into the instance
 
 
 
-
-#performed cleanup actions by deleting all VPCs and subnets
+# Performed cleanup actions by deleting all VPCs and subnets
 For guide, you are check the links below:
 
 https://docs.aws.amazon.com/cli/latest/reference/ec2/
