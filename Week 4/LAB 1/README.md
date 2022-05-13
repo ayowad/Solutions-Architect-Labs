@@ -28,7 +28,7 @@ aws ec2 create-security-group
     "GroupId": "sg-08a16aea2460554cb"
 }
 
-# Add rule to all ssh
+# Add a rule to allow ssh
 aws ec2 authorize-security-group-ingress
 --group-id sg-08a16aea2460554cb
 --protocol tcp --port 22 --cidr 0.0.0.0/0
