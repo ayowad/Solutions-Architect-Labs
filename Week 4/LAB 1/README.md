@@ -33,6 +33,9 @@ aws ec2 authorize-security-group-ingress
 --group-id sg-08a16aea2460554cb
 --protocol tcp --port 22 --cidr 0.0.0.0/0
 
+
+
+
 # output
 
 {
@@ -53,8 +56,6 @@ aws ec2 authorize-security-group-ingress
 
 
 # Enabled termination protection
-aws ec2 run-instances 
---image-id i-00f3f065d653358a7 
---count 1 --instance-type t2.micro 
---security-group-id sg-08a16aea2460554cb 
---subnet-id subnet-0893dbbdbec76d63f
+aws ec2 modify-instance-attribute \
+  --instance-id i-00f3f065d653358a7 \
+  --block-device-mappings "[{\"DeviceName\": \"/dev/sda1\",\"Ebs\":{\"DeleteOnTermination\":false}}]"                                                               
