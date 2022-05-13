@@ -7,6 +7,12 @@ Tasks:
 4. Enter a name for your user pool and choose Review defaults to save the name.
 5. On the Review page, choose Create pool.
 
+# Working with IAM management console
+
+![image](https://user-images.githubusercontent.com/94347897/168389844-b6a8b5fd-c829-4966-9aa2-80f3a1ce898a.png)
+
+
+![image](https://user-images.githubusercontent.com/94347897/168389952-c31bca44-6ba3-4d44-bfaa-fdd08161811b.png)
 
 
 
