@@ -87,6 +87,14 @@ image-id ami-a4827dc9
 --subnet-id subnet-0b521d9ba61d3a46b
 
 
+# Final output
+![image](https://user-images.githubusercontent.com/94347897/168255840-15051a0f-bbe8-4ae0-80ab-30968b8a4347.png)
+
+
+# Perform clean up operations
+
+
+
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
