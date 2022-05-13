@@ -30,6 +30,22 @@ financialmanager     billingcontrol      Billing Full Access
 financeuser          billinguser          Billing view access
 
 
+# Created an IAM group with S3 read only acess (S3 support)
+![image](https://user-images.githubusercontent.com/94347897/168376424-b1e54dbd-4138-487f-852f-d8ad36de22ff.png)
+
+
+![image](https://user-images.githubusercontent.com/94347897/168380340-85eb0de3-1aaf-4d87-8ab2-1dff4ce16b41.png)
+
+
+
+![image](https://user-images.githubusercontent.com/94347897/168381850-55962752-2669-4e7a-9b4e-01eaaf2ea13c.png)
+
+
+![image](https://user-images.githubusercontent.com/94347897/168389326-a7a9c945-839a-4856-9f34-9a9288ca2d13.png)
+
+# Clean up performed
+
+
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_users-self-manage-mfa-and-creds.html
 
