@@ -42,6 +42,8 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.
 
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html
 
+# Create a CPU usage alarm
+![image](https://user-images.githubusercontent.com/94347897/170587486-ae6caa9e-94cf-4cb2-8a4d-b061e355b258.png)
 
 
 
