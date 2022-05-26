@@ -12,6 +12,8 @@ Tasks:
 
     NB: If you fail to perform clean up actions, costs are usually incurred.
 
+# Create an Amazon VPC for use with a DB instance
+![image](https://user-images.githubusercontent.com/94347897/170353957-21cf4e1e-28eb-44ca-9984-ae2177c71d72.png)
 
 
 
