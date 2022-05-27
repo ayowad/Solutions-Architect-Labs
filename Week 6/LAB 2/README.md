@@ -13,6 +13,7 @@
 
 
 # View your log files
+![image](https://user-images.githubusercontent.com/94347897/170790274-b51e38b4-1fd3-41ce-b9b9-440b820bd038.png)
 
 
 Guide:
